@@ -3,7 +3,7 @@ In this project, a recurrent neural network (RNN, LSTM) model was developed for 
 
 * PyTorch
 * Amazon SageMaker
+* Model deployment
 * Recurrent neural network (RNN)
 * Long short-term memory (LSTM)
 * Word embeddings
-* Model deployment
